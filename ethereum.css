@@ -1,0 +1,22 @@
+.background{
+  background-color: hsl(217, 54%, 11%);
+  height: 700px;
+    width: 700px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+
+.picandtext{
+  background-color: hsl(216, 50%, 16%);
+  height: 500px;
+  width: 300px;
+  color:hsl(215, 32%, 27%);
+  padding-top: 10px;
+}
+.coin{
+  color:aqua
+}
+.librum{
+  color: hsl(0, 0%, 100%);
+}
